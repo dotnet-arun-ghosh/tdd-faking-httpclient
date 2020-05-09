@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faking-HttpClient", "Faking-HttpClient\Faking-HttpClient.csproj", "{7C76E7DD-5AB5-45E7-80BF-FC09C80AA3FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Faking-HttpClient-Test", "Faking-HttpClient-Test\Faking-HttpClient-Test.csproj", "{C282337D-8CFB-4FD7-B74E-E29B892357EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C76E7DD-5AB5-45E7-80BF-FC09C80AA3FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C76E7DD-5AB5-45E7-80BF-FC09C80AA3FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C76E7DD-5AB5-45E7-80BF-FC09C80AA3FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C76E7DD-5AB5-45E7-80BF-FC09C80AA3FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C282337D-8CFB-4FD7-B74E-E29B892357EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C282337D-8CFB-4FD7-B74E-E29B892357EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C282337D-8CFB-4FD7-B74E-E29B892357EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C282337D-8CFB-4FD7-B74E-E29B892357EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2E387F3-0793-4964-B985-AFA1DD539988}
+	EndGlobalSection
+EndGlobal
